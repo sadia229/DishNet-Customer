@@ -1,6 +1,6 @@
 ## DishNet Customer
 
-![dishnet](https://user-images.githubusercontent.com/108749310/216901298-d83105bd-6cb5-4699-95f2-f469871cd5bf.png)
+![dishnet](https://user-images.githubusercontent.com/108749310/216901298-d83105bd-6cb5-4699-95f2-f469871cd5bf.png,height:24,width:24)
 
 ## Project Environment
 ```
